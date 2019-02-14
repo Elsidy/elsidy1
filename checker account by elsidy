@@ -1,0 +1,1 @@
+curl -XGET 'https://checker-g.herokuapp.com/api/airasia?email=EMAIL&password=PASSWORD&balance=false'
